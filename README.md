@@ -1,2 +1,2 @@
 # Data-Science
-Polynomial Regression
+<h1>Polynomial Regression</h1>
