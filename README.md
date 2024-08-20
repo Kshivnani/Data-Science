@@ -1,2 +1,2 @@
 # Data-Science
-For Practice
+Polynomial Regression
